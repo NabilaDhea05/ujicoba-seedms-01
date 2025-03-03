@@ -1,0 +1,7 @@
+Mar 02 09:17:50  [info] -- (10.240.2.23) op.Login.php 
+Mar 02 09:17:50  [info] Authentication service 'db'
+Mar 02 09:17:50  [error] Authentication service 'db': Authentication of user 'admin' failed.
+Mar 02 09:17:50  [error] -- (10.240.2.23) op.Login.php login failed
+Mar 02 09:25:30  [info] -- (10.240.4.161) op.Login.php 
+Mar 02 09:25:30  [info] Authentication service 'db'
+Mar 02 09:25:30  [info] Authentication service 'db': Authentication of user 'admin' successful.
